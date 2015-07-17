@@ -1,0 +1,17 @@
+.bash_history
+.bash_logout
+.bash_profile
+.bashrc
+.cagefs/
+.cl.selector/
+.composer/
+.contactemail
+.cpanel/
+.cphorde/
+.gemrc
+.ssh/
+.zshrc
+access-logs
+logs/
+tmp/
+.viminfo

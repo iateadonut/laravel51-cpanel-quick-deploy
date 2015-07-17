@@ -1,0 +1,9 @@
+/vendor
+/node_modules
+Homestead.yaml
+.env
+composer.lock
+#eclipse
+.buildpath
+.project
+.settings/
